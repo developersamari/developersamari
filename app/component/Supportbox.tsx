@@ -1,6 +1,6 @@
 import React from "react";
 import Image from 'next/image'
-import computerpepole from "../camputerpepole.svg";
+import computerpepole from "../imag/camputerpepole.svg";
 
 export default function Supportbox() {
     return(
